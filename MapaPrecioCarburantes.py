@@ -61,4 +61,3 @@ for p in prov:
        folium.Circle(location=[dfaux.Latitud.iat[i],dfaux.Longitud.iat[i],],popup=data,radius=rus,color=color,fill=True, fill_opacity=0.7).add_to(hmap)
 
 hmap.save('index.html')
-
