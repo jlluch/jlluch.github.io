@@ -62,9 +62,3 @@ for p in prov:
 
 hmap.save('index.html')
 
-system ('git add index.html')
-system ('git commit -m "v 0.2')
-system ('git remote set-url origin https://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@github.com/jlluch/jlluch.github.io.git')
-system ('git push origin main')
-
-
