@@ -17,6 +17,7 @@ from tweepy import OAuthHandler
 import folium
 from folium.plugins import HeatMap
 
+
    
 def rgb_to_hex(rgb):
     return '%02x%02x%02x' % rgb
@@ -59,3 +60,5 @@ for p in prov:
        folium.Circle(location=[dfaux.Latitud.iat[i],dfaux.Longitud.iat[i],],popup=data,radius=rus,color=color,fill=True, fill_opacity=0.7).add_to(hmap)
 
 hmap.save('index.html')
+
+
