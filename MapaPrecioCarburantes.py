@@ -16,6 +16,7 @@ import tweepy
 from tweepy import OAuthHandler  
 import folium
 from folium.plugins import HeatMap
+from os import system
 
 
    
@@ -60,5 +61,10 @@ for p in prov:
        folium.Circle(location=[dfaux.Latitud.iat[i],dfaux.Longitud.iat[i],],popup=data,radius=rus,color=color,fill=True, fill_opacity=0.7).add_to(hmap)
 
 hmap.save('index.html')
+
+system ('git add index.html')
+system ('git commit -m "v 0.2')
+system ('git remote set-url origin https://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@github.com/jlluch/jlluch.github.io.git')
+system ('git push origin main')
 
 
