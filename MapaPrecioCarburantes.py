@@ -24,7 +24,7 @@ def rgb_to_hex(rgb):
     return '%02x%02x%02x' % rgb
 
 prov = ['ALBACETE','ALICANTE','ALMERÍA','ARABA/ÁLAVA','ASTURIAS','ÁVILA','BADAJOZ','BALEARS (ILLES)','BARCELONA','BIZKAIA','BURGOS','CÁCERES','CÁDIZ','CANTABRIA','CASTELLÓN / CASTELLÓ','CIUDAD REAL','CÓRDOBA','CORUÑA (A)','CUENCA','GIPUZKOA','GIRONA','GRANADA','GUADALAJARA','HUELVA','HUESCA','JAÉN','LEÓN','LLEIDA','LUGO',
-'MADRID','MÁLAGA','MURCIA','NAVARRA','OURENSE','PALENCIA','PONTEVEDRA','RIOJA (LA)','SALAMANCA','SEGOVIA','SEVILLA','SORIA','TARRAGONA','TERUEL','TOLEDO','VALENCIA / VALÈNCIA','VALLADOLID','ZAMORA','ZARAGOZA']
+'MADRID','MÁLAGA','MURCIA','NAVARRA','OURENSE','PALENCIA','PONTEVEDRA','RIOJA (LA)','SALAMANCA','SEGOVIA','SEVILLA','SORIA','TARRAGONA','TERUEL','TOLEDO','VALENCIA / VALÈNCIA','VALLADOLID','ZAMORA','ZARAGOZA','MELILLA','CEUTA','PALMAS (LAS)','SANTA CRUZ DE TENERIFE']
 path = 'C:\Temp\PrecioCarburantes\\'
 
 URL = "https://geoportalgasolineras.es/resources/files/preciosEESS_es.xls"
@@ -35,7 +35,7 @@ df = pd.read_excel(URL, skiprows=3, engine="xlrd")
 path = 'C:\\Users\jlluch\Documents\GitHub\jlluch.github.io\\'
 
 elim = ['MELILLA','CEUTA','PALMAS (LAS)','SANTA CRUZ DE TENERIFE']
-df = df[~df.Provincia.isin(elim)] 
+# df = df[~df.Provincia.isin(elim)] 
 cols = ['Precio gasolina 95 E5','Precio gasóleo A','Longitud','Latitud']
 df[cols]=df[cols].replace(',','.',regex=True).astype(float)
 df = df[~df['Dirección'].str.contains('CARRETERA VICALVARO A ESTACION DE')]
