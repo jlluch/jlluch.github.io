@@ -38,6 +38,8 @@ elim = ['MELILLA','CEUTA','PALMAS (LAS)','SANTA CRUZ DE TENERIFE']
 df = df[~df.Provincia.isin(elim)] 
 cols = ['Precio gasolina 95 E5','Precio gasóleo A','Longitud','Latitud']
 df[cols]=df[cols].replace(',','.',regex=True).astype(float)
+df = df[~df['Dirección'].str.contains('CARRETERA VICALVARO A ESTACION DE')]
+#df.iat[6822,4]='CARRETERA VICALVARO KM. 22'
 
 medlat=df.Latitud.mean()
 medlon=df.Longitud.mean()
@@ -52,6 +54,7 @@ for p in prov:
    print(p) 
    dfaux = df[df.Provincia==p]
    dfaux = dfaux.dropna(subset=['Precio gasolina 95 E5'])
+   
    print(len(dfaux))
    maxim = dfaux['Precio gasolina 95 E5'].max()
    minim = dfaux['Precio gasolina 95 E5'].min()
@@ -80,5 +83,4 @@ for p in prov:
    #         folium.Circle(location=[dfaux2.Latitud.iat[i],dfaux2.Longitud.iat[i],],popup=data,radius=rus,color=color,fill=True, fill_opacity=0.7).add_to(hmap)
        
        
-
 hmap.save(path+'index.html')
