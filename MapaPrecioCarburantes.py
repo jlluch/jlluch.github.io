@@ -67,20 +67,20 @@ for p in prov:
        folium.Circle(location=[dfaux.Latitud.iat[i],dfaux.Longitud.iat[i],],popup=data,radius=rus,color=color,fill=True, fill_opacity=0.7).add_to(hmap)
 
        
-   # dfaux2 = df[df.Provincia==p]
-   # dfaux2 = dfaux2.dropna(subset=['Precio gasóleo A'])
-   # dfaux2 = dfaux2[dfaux2['Precio gasolina 95 E5'].isnull()]
-   # print(len(dfaux2))
-   # maxim = dfaux2['Precio gasóleo A'].max()
-   # minim = dfaux2['Precio gasóleo A'].min()
-   # dif = maxim-minim
-   # if (len(dfaux2)>0):
-   #     for i in range(len(dfaux2)):
-   #         pr = dfaux2['Precio gasóleo A'].iat[i]
-   #         norm = (pr-minim)/dif
-   #         color = '#'+rgb_to_hex((int(norm*255),int((1.0-norm)*255),0))
-   #         data = str(dfaux2.Localidad.iat[i])+"\n"+str(dfaux2.Dirección.iat[i])+"\nGas 95: "+str(pr)+"€"+"\nDiesel: "+str(dfaux2['Precio gasóleo A'].iat[i])+"€"
-   #         folium.Circle(location=[dfaux2.Latitud.iat[i],dfaux2.Longitud.iat[i],],popup=data,radius=rus,color=color,fill=True, fill_opacity=0.7).add_to(hmap)
+   dfaux2 = df[df.Provincia==p]
+   dfaux2 = dfaux2.dropna(subset=['Precio gasóleo A'])
+   dfaux2 = dfaux2[dfaux2['Precio gasolina 95 E5'].isnull()]
+   print(len(dfaux2))
+   maxim = dfaux2['Precio gasóleo A'].max()
+   minim = dfaux2['Precio gasóleo A'].min()
+   dif = maxim-minim
+   if (len(dfaux2)>0):
+        for i in range(len(dfaux2)):
+            pr = dfaux2['Precio gasóleo A'].iat[i]
+            norm = (pr-minim)/dif
+            color = '#'+rgb_to_hex((int(norm*255),int((1.0-norm)*255),0))
+            data = str(dfaux2.Localidad.iat[i])+"\n"+str(dfaux2.Dirección.iat[i])+"\nGas 95: "+str(pr)+"€"+"\nDiesel: "+str(dfaux2['Precio gasóleo A'].iat[i])+"€"
+            folium.Circle(location=[dfaux2.Latitud.iat[i],dfaux2.Longitud.iat[i],],popup=data,radius=rus,color=color,fill=True, fill_opacity=0.7).add_to(hmap)
        
        
 hmap.save(path+'index.html')
