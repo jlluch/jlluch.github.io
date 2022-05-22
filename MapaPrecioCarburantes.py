@@ -23,7 +23,7 @@ from os import system
 def rgb_to_hex(rgb):
     return '%02x%02x%02x' % rgb
 
-prov = ['ALBACETE','ALICANTE','ALMERÍA','ARABA/ÁLAVA','ASTURIAS','ÁVILA','BADAJOZ','BALEARS (ILLES)','BARCELONA','BIZKAIA','BURGOS','CÁCERES','CÁDIZ','CANTABRIA','CASTELLÓN / CASTELLÓ','CIUDAD REAL','CÓRDOBA','CORUÑA (A)','CUENCA','GIPUZKOA','GIRONA','GRANADA','GUADALAJARA','HUELVA','HUESCA','JAÉN','LEÓN','LLEIDA','LUGO'
+prov = ['ALBACETE','ALICANTE','ALMERÍA','ARABA/ÁLAVA','ASTURIAS','ÁVILA','BADAJOZ','BALEARS (ILLES)','BARCELONA','BIZKAIA','BURGOS','CÁCERES','CÁDIZ','CANTABRIA','CASTELLÓN / CASTELLÓ','CIUDAD REAL','CÓRDOBA','CORUÑA (A)','CUENCA','GIPUZKOA','GIRONA','GRANADA','GUADALAJARA','HUELVA','HUESCA','JAÉN','LEÓN','LLEIDA','LUGO',
 'MADRID','MÁLAGA','MURCIA','NAVARRA','OURENSE','PALENCIA','PONTEVEDRA','RIOJA (LA)','SALAMANCA','SEGOVIA','SEVILLA','SORIA','TARRAGONA','TERUEL','TOLEDO','VALENCIA / VALÈNCIA','VALLADOLID','ZAMORA','ZARAGOZA']
 path = 'C:\Temp\PrecioCarburantes\\'
 
@@ -49,9 +49,10 @@ hmap = folium.Map(location=[medlat,medlon],zoom_start=8,tiles='stamenterrain',at
 ic = 'certificate'
 rus = 100
 for p in prov:
-    
+   print(p) 
    dfaux = df[df.Provincia==p]
    dfaux = dfaux.dropna(subset=['Precio gasolina 95 E5'])
+   print(len(dfaux))
    maxim = dfaux['Precio gasolina 95 E5'].max()
    minim = dfaux['Precio gasolina 95 E5'].min()
    dif = maxim-minim
@@ -61,5 +62,23 @@ for p in prov:
        color = '#'+rgb_to_hex((int(norm*255),int((1.0-norm)*255),0))
        data = str(dfaux.Localidad.iat[i])+"\n"+str(dfaux.Dirección.iat[i])+"\nGas 95: "+str(pr)+"€"+"\nDiesel: "+str(dfaux['Precio gasóleo A'].iat[i])+"€"
        folium.Circle(location=[dfaux.Latitud.iat[i],dfaux.Longitud.iat[i],],popup=data,radius=rus,color=color,fill=True, fill_opacity=0.7).add_to(hmap)
+
+       
+   dfaux2 = df[df.Provincia==p]
+   dfaux2 = dfaux2.dropna(subset=['Precio gasóleo A'])
+   dfaux2 = dfaux2[dfaux2['Precio gasolina 95 E5'].isnull()]
+   print(len(dfaux2))
+   maxim = dfaux2['Precio gasóleo A'].max()
+   minim = dfaux2['Precio gasóleo A'].min()
+   dif = maxim-minim
+   if (len(dfaux2)>0):
+       for i in range(len(dfaux)):
+           pr = dfaux['Precio gasolina 95 E5'].iat[i]
+           norm = (pr-minim)/dif
+           color = '#'+rgb_to_hex((int(norm*255),int((1.0-norm)*255),0))
+           data = str(dfaux.Localidad.iat[i])+"\n"+str(dfaux.Dirección.iat[i])+"\nGas 95: "+str(pr)+"€"+"\nDiesel: "+str(dfaux['Precio gasóleo A'].iat[i])+"€"
+           folium.Circle(location=[dfaux.Latitud.iat[i],dfaux.Longitud.iat[i],],popup=data,radius=rus,color=color,fill=True, fill_opacity=0.7).add_to(hmap)
+       
+       
 
 hmap.save(path+'index.html')
