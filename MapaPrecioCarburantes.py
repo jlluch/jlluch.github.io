@@ -84,3 +84,32 @@ for p in prov:
        
        
 hmap.save(path+'index.html')
+
+f = open (path+'index.html','r', encoding="utf8")
+indexhtml = f.read()
+f.close()
+
+statcounter = """  <!-- Default Statcounter code for Mapa Gasolinas
+https://jlluch.github.io/ -->
+<script type="text/javascript">
+var sc_project=12749805; 
+var sc_invisible=1; 
+var sc_security="891e3230"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="real time web
+analytics" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12749805/0/891e3230/1/"
+alt="real time web analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->  """
+
+index = indexhtml.find('</body>')
+newindexhtml = indexhtml[:index]+statcounter+indexhtml[index:]
+f = open (path+'index.html','w', encoding="utf8")
+f.write(newindexhtml)
+f.close()
+
