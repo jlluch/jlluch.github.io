@@ -14,7 +14,7 @@ title: Running Stats
 description: 'Blog para compartir datos y estadísticas de running' # this means to ignore newlines until "baseurl:"
 url: "https://jlluch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/RS-logo-full.svg"
-logo-icon: "/assets/img/branding/RS-symbol.svg"
+logo-icon: "/assets/img/branding/favicon.ico"
 logo-icon-SEO: "/assets/img/branding/RS-symbol-black.png" # must be a non SVG file
 
 # Your name to show in the footer
@@ -29,9 +29,9 @@ about-author: Profesor de la UPValencia - <a href="https://www.ai2.upv.es/">ai2<
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Template Home: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://www.upv.es/ficha-personal/jlluch"
 
 ################
 # --- Logo --- #
@@ -153,8 +153,8 @@ footer-hover-col: "#0085A1"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+footer-img: "/assets/img/branding/RS-logo-full.jpg"
+page-img: "/assets/img/branding/RS-logo-full.svg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
