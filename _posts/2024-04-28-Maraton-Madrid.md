@@ -46,6 +46,7 @@ Las siguientes imágenes muestran la distribución de tiempos de los corredores 
 A continuación se muestran los datos de los corredores por grupos de edad y género:
 ### Resultados por grupos de edad en hombres
 
+En esta tabla:
 
 |AgeGroup|%|Mean|Min|Max|
 |-----------|------|--------|--------|--------|
@@ -66,7 +67,7 @@ A continuación se muestran los datos de los corredores por grupos de edad y gé
 |Sen-M|22.9|3:56:06|2:31:48|6:09:24|
 ### Resultados por grupos de edad en mujeres
 
-
+En esta tabla:
 | AgeGroup   |    % | Mean    | Min     | Max     |
 |-----------|-----|--------|--------|--------|
 | Eli-F      | 0.07 | 2:37:00 | 2:26:18 | 3:23:00 |

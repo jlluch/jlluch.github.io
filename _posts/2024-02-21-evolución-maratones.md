@@ -30,7 +30,10 @@ Datos sub 2h30'
 <table>
   <thead>
     <tr>
-      <th>City</th>
+      <th rowspan="2">City</th>
+      <th colspan="5">Years</th>
+    </tr>
+    <tr>
       <th>2018</th>
       <th>2019</th>
       <th>2021</th>
