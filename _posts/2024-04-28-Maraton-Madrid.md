@@ -1,3 +1,9 @@
+
+Madrid 2024
+===========
+
+
+
 ---
 layout: post
 title:  Maratón de Madrid 2024
@@ -6,9 +12,6 @@ date:   2024-04-28 8:30:20 -0600
 tags: [maratones, resultados]
 author: Xavi Lluch
 ---
-
-Madrid 2024
-===========
 
 # Datos del maratón de Madrid 2024 Fecha: 28/04/24
 
@@ -44,6 +47,7 @@ Las siguientes imágenes muestran la distribución de tiempos de los corredores 
 
 A continuación se muestran los datos de los corredores por grupos de edad y género:
 ### Resultados por grupos de edad en hombres
+  
 
 
 | AgeGroup   |     % | Mean    | Min     | Max     |
@@ -62,8 +66,10 @@ A continuación se muestran los datos de los corredores por grupos de edad y gé
 | Eli-M      |  0.23 | 2:20:48 | 2:09:00 | 3:19:24 |
 | M75        |  0.12 | 4:56:18 | 3:47:30 | 6:36:12 |
 | DF-M       |  0.01 | 3:25:00 | 3:25:00 | 3:25:00 |
-| DI-M       |  0.01 | 3:39:18 | 3:39:18 | 3:39:18 |
+| DI-M       |  0.01 | 3:39:18 | 3:39:18 | 3:39:18 |  
+
 ### Resultados por grupos de edad en mujeres
+  
 
 
 | AgeGroup   |     % | Mean    | Min     | Max     |
@@ -80,7 +86,8 @@ A continuación se muestran los datos de los corredores por grupos de edad y gé
 | Eli-F      |  0.43 | 2:37:00 | 2:26:18 | 3:23:00 |
 | W65        |  0.36 | 4:41:42 | 4:09:42 | 4:58:48 |
 | W70        |  0.14 | 5:46:48 | 5:38:42 | 5:55:00 |
-| W75        |  0.07 | 6:10:48 | 6:10:48 | 6:10:48 |
+| W75        |  0.07 | 6:10:48 | 6:10:48 | 6:10:48 |  
+
 ## Datos por tramos de 5 kms
 
 
@@ -144,7 +151,8 @@ Para terminar con el estudio de los tramos de 5 kms, en las siguientes tablas se
 | 40Km       |  2.37 |
 | 20Km       |  1.57 |
 | 35Km       |  1.55 |
-| 30Km       |  0.57 |
+| 30Km       |  0.57 |  
+
 
 | PointMax   |     % |
 |:-----------|------:|
