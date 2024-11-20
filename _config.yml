@@ -30,7 +30,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Template Home: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Learn markdown: "https://www.markdownguide.org/"
   Author's home: "https://www.upv.es/ficha-personal/jlluch"
 
 ################
@@ -59,8 +59,9 @@ title-img: "/assets/img/branding/favicon.ico"
 social-network-links:
   email: jlluch@upv.es # Add your Email address
   website: https://jlluch.github.io/ # Add your website
-  github:  https://github.com/jlluch
+  github:  jlluch
   twitter: '@runningstats0' # Add your Twitter handle
+  bluesky: '@xavirunner.bsky.social'
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
