@@ -153,8 +153,8 @@ footer-hover-col: "#0085A1"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/branding/RS-logo-full.jpg"
-page-img: "/assets/img/branding/RS-logo-full.svg"
+#footer-img: "/assets/img/branding/background.jpg"
+#page-img: "/assets/img/branding/RS-logo-full.svg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
