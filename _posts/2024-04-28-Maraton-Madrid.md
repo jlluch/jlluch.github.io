@@ -37,9 +37,9 @@ En esta tabla se resume el número de finishers por espacios de tiempos y el por
 Por último, en cuanto al resumen general, la primera media maratón tiene un tiempo medio de 1:54:00 y la segunda de 2:07:00 con un 7.82% de Negative Pace. Para los hombres, la primera media maratón tiene un tiempo medio de 1:52:12 y la segunda de 2:05:06 con un 7.78% de Negative Pace. Y para las mujeres, la primera media maratón tiene un tiempo medio de 2:04:00 y la segunda de 2:17:30 con un 8.09% de Negative Pace.
 
 Las siguientes imágenes muestran la distribución de tiempos de los corredores en el maratón por género:  
-![Distribución de tiempos total](./assets/img/posts/20240428/TimeDistributionMadridMarathonTotal.svg)  
-![Distribución de tiempos hombres](./assets/img/posts/20240428/TimeDistributionMadridMarathonMen.svg)  
-![Distribución de tiempos mujeres](./assets/img/posts/20240428/TimeDistributionMadridMarathonWomen.svg)
+![Distribución de tiempos total](/assets/img/posts/20240428/TimeDistributionMadridMarathonTotal.svg)  
+![Distribución de tiempos hombres](/assets/img/posts/20240428/TimeDistributionMadridMarathonMen.svg)  
+![Distribución de tiempos mujeres](/assets/img/posts/20240428/TimeDistributionMadridMarathonWomen.svg)
 ## Datos por grupo de edad y género
 
 
@@ -48,7 +48,7 @@ A continuación se muestran los datos de los corredores por grupos de edad y gé
 
 
 |AgeGroup|%|Mean|Min|Max|
-|:-----------|------:|:--------|:--------|:--------|
+|-----------|------|--------|--------|--------|
 |DF-M|0.01|3:25:00|3:25:00|3:25:00|
 |DI-M|0.01|3:39:18|3:39:18|3:39:18|
 |Eli-M|0.2|2:20:48|2:09:00|3:19:24|
@@ -68,7 +68,7 @@ A continuación se muestran los datos de los corredores por grupos de edad y gé
 
 
 | AgeGroup   |    % | Mean    | Min     | Max     |
-|:-----------|-----:|:--------|:--------|:--------|
+|-----------|-----|--------|--------|--------|
 | Eli-F      | 0.07 | 2:37:00 | 2:26:18 | 3:23:00 |
 | S20-F      | 0.09 | 4:23:48 | 3:24:36 | 5:59:36 |
 | S23-F      | 0.45 | 4:28:18 | 3:33:00 | 6:14:24 |
