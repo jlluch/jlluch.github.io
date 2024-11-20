@@ -152,8 +152,8 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/branding/RS-logo-full.jpg"
-footer-img: "/assets/img/branding/RS-logo-full.jpg"
+navbar-img: "/assets/img/branding/RS-logo-full.svg"
+#footer-img: "/assets/img/branding/RS-logo-full.jpg"
 page-img: "/assets/img/branding/background.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
