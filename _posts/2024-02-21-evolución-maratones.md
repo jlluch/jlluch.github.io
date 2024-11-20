@@ -17,11 +17,11 @@ Si en 2018 y en 2019 la carrera con más finishers sub 2h30' era Berlín con 111
 
 Hay que tener en cuenta, que en 2021 algunos maratones tuvieron más restricciones que otros por la pandemia de COVID-19, en función de la fecha de celebración.
 
-<center><img src='./assets/img/posts/20240221/sub2h30.jpg'></center>
+<center><img src='../assets/img/posts/20240221/sub2h30.jpg'></center>
 
 En cuanto a corredores sub 3 horas, era Boston en 2018 y 2019 el que ocupaba la primera plaza, con 1811 y 2631, respectivamente. Valencia en 2019 ocupaba la cuarta plaza, con 2149, en tan solo 3 ediciones ha multiplicado esa cantidad casi por 2,5. 
 
-<center><img src='./assets/img/posts/20240221/sub3h00.jpg'></center>
+<center><img src='../assets/img/posts/20240221/sub3h00.jpg'></center>
 
 Sin duda, el crecimiento de Valencia en cuanto a rendimiento de corredores es espectacular, y por ello, no es de extrañar que tantos atletas a nivel mundial vengan a Valencia a batir sus récords nacionales o conseguir mínimas para campeonatos mundiales o juegos olímpicos.
 
