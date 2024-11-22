@@ -4,7 +4,7 @@ title: About me
 subtitle: Xavi Lluch
 ---
 
-<center><img src="/assets/img/avatarxavirunner.png" width="400" ></center>
+<center><img src="/assets/img/avatarxavirunner.png" width="200" ></center>
 
 
 Mi nombre es Xavi Lluch, soy profesor de la UPV e investigo en el Instituto de automática e Informática Industrial [ai2](https://www.ai2.upv.es/)

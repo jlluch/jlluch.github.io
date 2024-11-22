@@ -2,8 +2,8 @@
 layout: post
 title: Bienvenida
 subtitle: Bienvenida al blog
-date:   2024-02-20 16:30:20 -0600
-img: posts/20240220/RS-logo.jpg  
+date:   2020-01-01 16:30:20 -0600
+img: posts/20200101/RS-logo.jpg  
 tags: [bienvenida]
 author: Xavi Lluch
 ---

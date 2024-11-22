@@ -2,8 +2,8 @@
 layout: post
 title:  Evolución resultados maratones 2018-2023
 subtitle: Evolución de los resultados en los maratones de Berlín, Bosoton, Chicago, Londres, Nueva York, París y Valencia
-date:   2024-02-21 8:30:20 -0600
-img: posts/20240221/sub2h30.jpg 
+date:   2024-01-01 8:30:20 -0600
+img: posts/20240101/sub2h30.jpg 
 tags: [maratones, resultados, comparativas]
 author: Xavi Lluch
 ---
