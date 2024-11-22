@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Study List With Date
-subtitle: Something that I have studied and experienced
+title: Running Stats
+subtitle: Entradas ordenadas por fecha
 css: "/assets/css/CloudListFilter.css"
 ---
 <div class="post-preview">
