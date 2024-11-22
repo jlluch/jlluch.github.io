@@ -29,8 +29,8 @@ about-author: Profesor de la UPValencia - <a href="https://www.ai2.upv.es/">ai2<
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Etiquetas: "tags.html"
-    - Posts por fecha:  <a href="/CloudDate" class="list-filter filter-selected">List by Date</a>
+    - Etiquetas: "/tags/"
+    - Posts por fecha:  "/CloudDate/"
     - Learn markdown: "https://www.markdownguide.org/"
   Author's home: "https://www.upv.es/ficha-personal/jlluch"
 
