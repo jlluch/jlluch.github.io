@@ -4,22 +4,6 @@ title: Study List With Date
 subtitle: Something that I have studied and experienced
 css: "/assets/css/CloudListFilter.css"
 ---
-{: #top }
-
-<!-- {% include CloudHeaderPart.html %} --!>
-
-<!-- this code is from https://github.com/daattali/daattali.github.io/blob/master/index.html --> 
-<!-- This code from another person of https://github.com/digitaldrummerj/digitaldrummerj.github.io/blob/master/blog/archivebydate-->
-<!-- for index of date, this code comes from https://github.com/digitaldrummerj/digitaldrummerj.github.io/blob/master/_includes/_sidebar.html-->
-
-<!-- this code si from https://github.com/daattali/daattali.github.io/blob/master/index.html --> 
-<div class="list-filters post-preview">
-  <a href="/" class="list-filter">All posts</a>
-  <a href="/CloudCategories" class="list-filter">Catergories Cloud</a>
-  <a href="/CloudTags" class="list-filter">Tags Cloud</a>
-  <a href="/CloudDate" class="list-filter filter-selected">List by Date</a>
-</div>
-
 <div class="post-preview">
 {% assign openList = '<ul class="later on">'  %}
 {% assign closeList = '</ul>' %}
