@@ -6,7 +6,7 @@ css: "/assets/css/CloudListFilter.css"
 ---
 {: #top }
 
-{% include CloudHeaderPart.html %}
+<!-- {% include CloudHeaderPart.html %} --!>
 
 <!-- this code is from https://github.com/daattali/daattali.github.io/blob/master/index.html --> 
 <!-- This code from another person of https://github.com/digitaldrummerj/digitaldrummerj.github.io/blob/master/blog/archivebydate-->
