@@ -27,10 +27,11 @@ about-author: Profesor de la UPValencia - <a href="https://www.ai2.upv.es/">ai2<
 ###############################################
 
 navbar-links:
+  Bievenida: "Bienvenida"
   Etiquetas: "/tags/"
   Entradas por fecha: "/CloudDate/"
   Acerca de mí: "aboutme"
-  Author's home: "https://www.upv.es/ficha-personal/jlluch"
+  BlueSky: "https://bsky.app/profile/runningstats.bsky.social"
 
 ################
 # --- Logo --- #
@@ -59,8 +60,8 @@ social-network-links:
   email: jlluch@upv.es # Add your Email address
   website: https://jlluch.github.io/ # Add your website
   github:  jlluch
-  twitter: '@runningstats0' # Add your Twitter handle
-  bluesky: '@xavirunner.bsky.social'
+  twitter: '@xavi_runner' # Add your Twitter handle
+  bluesky: '@runningstats.bsky.social'
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -153,7 +154,7 @@ footer-hover-col: "#0085A1"
 # instead of colour
 
 #navbar-img: "/assets/img/branding/RS-logo-full.svg"
-footer-img: "/assets/img/branding/RS-logo.svg"
+#footer-img: "/assets/img/branding/RS-logo.svg"
 #page-img: "/assets/img/branding/background.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
