@@ -176,7 +176,8 @@ footer-hover-col: "#0085A1"
 #fbadmin: 
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
-gtag: "G-GE9HBE62NF"
+#gtag: "G-GE9HBE62NF"
+gtag: "G-98L1NNHK1V"
 
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
