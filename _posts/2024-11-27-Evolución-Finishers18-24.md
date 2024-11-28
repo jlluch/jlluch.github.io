@@ -46,8 +46,10 @@ Estos son los datos:
 | Valencia  | 19047  | 21366  | 12667  | 21813  | 26039  |        |
 | **Total** | **265159** | **282032** | **165218** | **243380** | **294658** | **294807** |
 
+<br><br>
 
 <center><img src='../assets/img/posts/20241127/Finishers.jpg'></center>
+
 
 
 ## La participación femenina en los maratones (2018-2024)
@@ -82,4 +84,6 @@ Estos son los datos:
 | **Total**| **36,4%** | **36,7%** | **35,9%** | **37,4%** | **37,2%** | **39,2%** |
 
 
-![Evolución % participación femenina 2018-24](../assets/img/posts/20241127/FinishersWomen.jpg) 
+<br><br>
+
+<center><img src='../assets/img/posts/20241127/FinishersWomen.jpg'></center>
