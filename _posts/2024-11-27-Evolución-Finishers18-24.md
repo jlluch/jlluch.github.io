@@ -23,9 +23,9 @@ Los datos muestran una fuerte caída en el número de finishers en 2021, refleja
 La recuperación comenzó en 2022, con un aumento significativo en el número de finishers. En Londres, los participantes crecieron de 35928 en 2021 a 40651 en 2022, alcanzando 48740 en 2023, superando incluso los niveles prepandemia.
 
 ### Récords recientes (2024):
-En 2024, ciudades como Berlín y Nueva York registraron máximos históricos de participación, con 54,095 y 55,530 finishers respectivamente. Estos números destacan el resurgimiento del interés en eventos masivos tras los desafíos de los últimos años.
+En 2024, ciudades como Berlín y Nueva York registraron máximos históricos de participación, con 54095 y 55530 finishers respectivamente. Estos números destacan el resurgimiento del interés en eventos masivos tras los desafíos de los últimos años.
 
-## Análisis por ciudades
+### Análisis por ciudades
 
 * __Berlín__ : Líder en crecimiento continuo. En 2024, alcanzó 54,095 finishers, consolidándose como uno de los destinos favoritos para los corredores que buscan superar marcas personales, gracias a su recorrido rápido y bien organizado.
 * __Boston__: Aunque muestra cierta estabilidad, el crecimiento ha sido más moderado comparado con otras ciudades.
@@ -34,6 +34,7 @@ En 2024, ciudades como Berlín y Nueva York registraron máximos históricos de 
 * __Valencia__: Aunque el evento es más pequeño en comparación con otros, sigue ganando popularidad como uno de los maratones más rápidos del mundo. Su número de finishers en 2023 fue notable, superando los 26,000. ¿Superará en esta edición su récord?
 
 Estos son los datos:
+
 | City      | 2018   | 2019   | 2021   | 2022   | 2023   | 2024   |
 |-----------|--------|--------|--------|--------|--------|--------|
 | Berlin    | 40805  | 43975  | 23102  | 34784  | 42985  | 54095  |
@@ -45,7 +46,9 @@ Estos son los datos:
 | Valencia  | 19047  | 21366  | 12667  | 21813  | 26039  |        |
 | **Total** | **265159** | **282032** | **165218** | **243380** | **294658** | **294807** |
 
+
 <center><img src='../assets/img/posts/20241127/finishers.jpg'></center>
+
 
 ## La participación femenina en los maratones (2018-2024)
 La inclusión y representación femenina en los maratones ha mostrado un crecimiento constante en los últimos años, aunque con diferencias significativas entre ciudades. En esta sección, analizamos cómo ha evolucionado el porcentaje de mujeres finishers en los grandes maratones del mundo desde 2018 hasta 2024.
@@ -66,6 +69,7 @@ Desde 2022, el porcentaje de mujeres ha comenzado a estabilizarse y crecer nueva
 * __París y Valencia__: Estas ciudades, con menor representación femenina en comparación con otras, han mostrado un crecimiento notable. París incrementó su participación femenina del 24,1% en 2018 al 27,3% en 2024. Valencia, aunque con cifras más bajas, muestra una tendencia al alza, alcanzando el 20,4% en 2023, ¿Superará en 2024 esta marca?
   
 Estos son los datos:
+
 | City     | 2018   | 2019   | 2021   | 2022   | 2023   | 2024   |
 |----------|--------|--------|--------|--------|--------|--------|
 | Berlin   | 30,2%  | 30,1%  | 27,6%  | 33,1%  | 33,5%  | 34,3%  |
