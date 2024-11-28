@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  Evolución resultados maratones 2018-2023
-subtitle: Evolución de los resultados en los maratones de Berlín, Bosoton, Chicago, Londres, Nueva York, París y Valencia
+subtitle: Evolución de los resultados en los maratones de Berlín, Boston, Chicago, Londres, Nueva York, París y Valencia
 date:   2024-01-01 8:30:20 -0600
 img: posts/20240101/sub2h30.jpg 
-tags: [maratones, resultados, comparativas]
+tags: [maratones, comparativas]
 author: Xavi Lluch
 ---
 El [maratón de Valencia ](https://www.valenciaciudaddelrunning.com/maraton/maraton/) se está convirtiendo, por méritos propios, en uno de los maratones más rápidos del mundo, ya no solo por las marcas que realizan los corredores de la élite, sino también por los resultados obtenidos por los corredores populares.
