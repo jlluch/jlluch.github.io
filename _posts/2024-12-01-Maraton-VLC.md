@@ -2,7 +2,7 @@
 layout: post
 title:  Maratón de Valencia 2024
 subtitle: Datos del maratón de Valencia 2024
-date:   2024-10-13 8:30:20 -0600
+date:   2024-12-01 8:30:20 -0600
 tags: [maratones, resultados]
 author: Xavi Lluch
 ---
