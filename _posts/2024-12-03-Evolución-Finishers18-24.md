@@ -8,7 +8,7 @@ author: Xavi Lluch
 ---
 Evolución de finishers 2018-24
 ============
-### Blog: **Análisis del Número de Finishers en Maratones - Foco en 2024 y Valencia**
+**Análisis del Número de Finishers en Maratones**
 
 En los últimos años, el número de corredores que finalizan maratones ha crecido significativamente, alcanzando cifras récord en 2024. Tras la celebración, el pasado domingo, del maratón de Valencia, actualizamos y analizamos todos los datos.
 
@@ -85,5 +85,4 @@ En 2024, **la participación femenina total alcanzó el 37.7%**, marcando un lev
 
 A continuación, presentamos una gráfica que muestra la evolución de la participación femenina en los principales maratones entre 2018 y 2024:
 
-<br>
 <center><img src='../assets/img/posts/20241203/Finishers18-24W.svg'></center>
