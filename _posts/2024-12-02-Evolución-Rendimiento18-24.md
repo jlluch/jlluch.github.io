@@ -60,7 +60,6 @@ Tras la celebración del maratón de Valencia el pasado domingo, actualizamos la
 
 - **Berlín** también se consolida en 2024 con 4556 finishers sub 3h en la segunda posición.
 - **Valencia**,  mantiene cifras estables y notables (5201 finishers), con una leve reducción con respecto a 2023, sin duda, la DANA que azotó la provincia de Valencia ha afectado a estos resultados, ya que un gran número de corredores sub 3 horas son locales.
-- 
 ---
 
 ### Mujeres Sub 3h
@@ -77,8 +76,6 @@ Tras la celebración del maratón de Valencia el pasado domingo, actualizamos la
 **Análisis:**
 - **Berlín** tuvo un gran incremento en el número de corredoras sub 3h, alcanzando 359 en 2024, lo que supone el liderato en esta categoría.
 - **Valencia**, con 264 mujeres sub 3h, mantiene una alta representación femenina, no pudiendo superar la cifra de 302 de 2023.
-
----
 
 ### Tendencias Clave de 2024
 
