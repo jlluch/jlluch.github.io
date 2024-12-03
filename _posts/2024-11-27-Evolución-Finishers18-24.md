@@ -6,7 +6,7 @@ date:   2024-11-27 8:30:20 -0600
 tags: [maratones, comparativas]
 author: Xavi Lluch
 ---
-Evolución de finishers 2018-24
+Evolución de finishers 2018-24 (I)
 ============
 El próximo domingo se celebra el 44º [maratón de Valencia ](https://www.valenciaciudaddelrunning.com/maraton/maraton/), una edición muy especial por el desafortunado desastre que produjo la DANA el pasado 29 de octubre.
 
