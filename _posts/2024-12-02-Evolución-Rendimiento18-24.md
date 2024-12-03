@@ -24,8 +24,7 @@ Tras la celebración del maratón de Valencia el pasado domingo, actualizamos la
 | Paris    | 9    | 11   | 26   | 14   | 9    | 9    |
 | Valencia | 11   | 13   | 24   | 24   | 40   | 31   |
 
-**Análisis:**
-- En **2024**, Berlín recortó la ventaja de Valencia y con 28 corredores sub 2h10 se consolida en el segunda posición, tras Valencia que con 31 corredores bajó la gran marca del año pasado de 40, pero mantiene su reputación como un evento clave para lograr marcas rápidas.
+**Análisis:** En **2024**, Berlín recortó la ventaja de Valencia, con 28 corredores sub 2h10 se consolida en la segunda posición, tras Valencia que con 31 corredores bajó la gran marca del año pasado de 40, pero mantiene su reputación como un evento clave para lograr marcas rápidas.
 
 ---
 
@@ -41,8 +40,8 @@ Tras la celebración del maratón de Valencia el pasado domingo, actualizamos la
 | Valencia | 103  | 190  | 230  | 376  | 566  | 512  |
 
 **Análisis:**
-- Valencia continuó su dominio con **512 corredores sub 2h30** en 2024, superando significativamente a otros maratones, aunque mostró una ligera disminución respecto a 2023.
-- Berlín alcanzó un notable aumento, alcanzando 303 finishers en esta categoría, consolidando su crecimiento constante.
+- **Valencia** continuó su dominio con **512 corredores sub 2h30** en 2024, superando significativamente a otros maratones, aunque mostró una ligera disminución respecto a 2023.
+- **Berlín** tuvo un notable aumento, alcanzando los 303 finishers en esta categoría, consolidando su crecimiento constante.
 
 ---
 
@@ -58,6 +57,7 @@ Tras la celebración del maratón de Valencia el pasado domingo, actualizamos la
 | Valencia | 1728 | 2149 | 1940 | 3958 | 5243 | 5201 |
 
 **Análisis:**
+
 - **Berlín** también se consolida en 2024 con 4556 finishers sub 3h en la segunda posición, tras **Valencia**, que mantiene cifras estables y notables (5201 finishers), con una leve reducción con respecto a 2023, sin duda, la DANA que azotó la provincia de Valencia ha afectado a estos resultados, ya que un gran número de corredores sub 3 horas son locales.
 ---
 
