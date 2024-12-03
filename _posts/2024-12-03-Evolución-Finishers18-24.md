@@ -6,80 +6,84 @@ date:   2024-12-03 8:30:20 -0600
 tags: [maratones, comparativas]
 author: Xavi Lluch
 ---
-Evolución de finishers 2018-24 (y II)
+Evolución de finishers 2018-24
 ============
-**Análisis del Número de Finishers en Maratones**
-Tras la celebración del maratón de Valencia el pasado domingo, actualizamos la publicación anterior y hacemos un  análisis de los resultados de 2024,  destacando los corredores **sub 2h10**, **sub 2h30**, **sub 3h** y las **mujeres sub 3h**. 
+### Blog: **Análisis del Número de Finishers en Maratones - Foco en 2024 y Valencia**
+
+En los últimos años, el número de corredores que finalizan maratones ha crecido significativamente, alcanzando cifras récord en 2024. Tras la celebración, el pasado domingo, del maratón de Valencia, actualizamos y analizamos todos los datos.
 
 ---
 
-### Corredores Sub 2h10
+#### Evolución del Número de Finishers por Ciudad
 
-| City     | 2018 | 2019 | 2021 | 2022 | 2023 | 2024 |
-|----------|------|------|------|------|------|------|
-| Berlin   | 7    | 10   | 6    | 12   | 23   | 28   |
-| Boston   | 0    | 10   | 1    | 12   | 8    | 7    |
-| Chicago  | 11   | 7    | 5    | 13   | 11   | 11   |
-| London   | 7    | 12   | 6    | 8    | 6    | 6    |
-| Paris    | 9    | 11   | 26   | 14   | 9    | 9    |
-| Valencia | 11   | 13   | 24   | 24   | 40   | 31   |
+A continuación, se presenta una tabla con los datos de finishers de maratones entre 2018 y 2024:
 
-**Análisis:**
-- En **2024**, Berlín recortó la ventaja de Valencia y con 28 corredores sub 2h10 se consolida en el segunda posición, tras Valencia que con 31 corredores bajó la gran marca del año pasado de 40, pero mantiene su reputación como un evento clave para lograr marcas rápidas.
-
----
-
-### Corredores Sub 2h30
-
-| City     | 2018 | 2019 | 2021 | 2022 | 2023 | 2024 |
-|----------|------|------|------|------|------|------|
-| Berlin   | 111  | 199  | 76   | 173  | 234  | 303  |
-| Boston   | 22   | 104  | 83   | 123  | 145  | 119  |
-| Chicago  | 91   | 140  | 52   | 134  | 163  | 135  |
-| London   | 51   | 133  | 120  | 106  | 163  | 219  |
-| Paris    | 44   | 69   | 76   | 106  | 95   | 85   |
-| Valencia | 103  | 190  | 230  | 376  | 566  | 512  |
-
-**Análisis:**
-- Valencia continuó su dominio con **512 corredores sub 2h30** en 2024, superando significativamente a otros maratones, aunque mostró una ligera disminución respecto a 2023.
-- Berlín alcanzó un notable aumento, alcanzando 303 finishers en esta categoría, consolidando su crecimiento constante.
+| City      | 2018   | 2019   | 2021   | 2022   | 2023   | 2024   |
+|-----------|--------|--------|--------|--------|--------|--------|
+| Berlin    | 40,805 | 43,975 | 23,102 | 34,784 | 42,985 | 54,095 |
+| Boston    | 25,832 | 26,656 | 15,386 | 24,835 | 26,603 | 25,545 |
+| Chicago   | 44,550 | 45,866 | 26,075 | 39,249 | 48,246 | 51,860 |
+| London    | 40,127 | 42,618 | 35,928 | 40,651 | 48,740 | 53,878 |
+| NYC       | 52,704 | 53,520 | 24,950 | 47,683 | 51,265 | 55,530 |
+| Paris     | 42,094 | 48,031 | 27,110 | 34,365 | 50,780 | 53,899 |
+| Valencia  | 19,047 | 21,366 | 12,667 | 21,813 | 25,900 | 28,183 |
+| **Total** | **265,159** | **282,032** | **165,218** | **243,380** | **294,519** | **322,990** |
 
 ---
 
-### Corredores Sub 3h
+### Análisis de los Resultados de 2024
 
-| City     | 2018 | 2019 | 2021 | 2022 | 2023 | 2024 |
-|----------|------|------|------|------|------|------|
-| Berlin   | 1692 | 2456 | 1218 | 2386 | 3191 | 4556 |
-| Boston   | 1811 | 2631 | 1547 | 3287 | 4175 | 2321 |
-| Chicago  | 1322 | 1978 | 709  | 2058 | 3279 | 3259 |
-| London   | 1140 | 2314 | 2144 | 1910 | 3031 | 3681 |
-| Paris    | 960  | 1575 | 1171 | 1738 | 2408 | 2138 |
-| Valencia | 1728 | 2149 | 1940 | 3958 | 5243 | 5201 |
+El año 2024 ha sido excepcional para los maratones más importantes del mundo. El número total de finishers alcanzó **322,990**, marcando un crecimiento significativo del **9,7%** respecto a 2023, pero si lo miramos desde 2018 el crecimiento es de un notable **21,8%**.
 
-**Análisis:**
-- **Berlín** también se consolida en 2024 con 4556 finishers sub 3h en la segunda posición, tras **Valencia**, que mantiene cifras estables y notables (5201 finishers), con una leve reducción con respecto a 2023, sin duda, la DANA que azotó la provincia de Valencia ha afectado a estos resultados, ya que un gran número de corredores sub 3 horas son locales.
----
-
-### Mujeres Sub 3h
-
-| City     | 2018 | 2019 | 2021 | 2022 | 2023 | 2024 |
-|----------|------|------|------|------|------|------|
-| Berlin   | 112  | 137  | 66   | 179  | 246  | 359  |
-| Boston   | 74   | 171  | 153  | 230  | 268  | 127  |
-| Chicago  | 119  | 205  | 88   | 174  | 315  | 245  |
-| London   | 46   | 142  | 121  | 120  | 201  | 259  |
-| Paris    | 33   | 54   | 46   | 69   | 68   | 49   |
-| Valencia | 59   | 34   | 89   | 185  | 302  | 264  |
-
-**Análisis:**
-- **Berlín** tuvo un gran incremento sostenido en el número de corredoras sub 3h, alcanzando 359 en 2024, lo que supone el liderato en esta categoría.
-- **Valencia**, con 264 mujeres sub 3h, mantiene una alta representación femenina, no pudiendo superar la cifra de 302 de 2023.
+- **Nueva York** sigue liderando en participación, con **55,530 finishers**. Este dato refuerza su posición como el maratón más popular del mundo.
+- **Berlín** y **Londres** experimentaron aumentos significativos en el número de corredores, con incrementos del **25,4%** y **10,5%**, respectivamente.
+- En contraste, **Boston** mostró una ligera disminución en comparación con 2023, debido a los cambios en los criterios de clasificación.
 
 ---
 
-### Tendencias Clave de 2024
+El maratón de **Valencia** destaca como uno de los eventos con mayor crecimiento en los últimos años. En **2024**, alcanzó los **28,183 finishers**, consolidándose como una de las pruebas más atractivas para los corredores de todo el mundo. Comparado con 2018, el número de finishers ha aumentado un **48%**, lo que refleja:
 
-1. **Valencia** sigue consolidándose como uno de los maratones más rápidos y con mayor participación en las categorías analizadas.
-2. **Berlín** mostró un crecimiento significativo en todas las métricas, manteniéndose como un destino atractivo para corredores de élite y amateur.
-3. **Boston** experimentó una notable disminución de finishers, particularmente en las categorías sub 3h y femeninas sub 3h, mientras que otras ciudades mantuvieron su crecimiento.
+1. **Organización de primer nivel:** Valencia ha sido reconocida por su circuito rápido y su ambiente acogedor.
+2. **Condiciones ideales:** El clima y el terreno plano de la ciudad lo convierten en un destino favorito para los corredores que buscan superar sus marcas personales.
+3. **Atractivo internacional:** Cada año, más corredores extranjeros participan en este evento.
+
+---
+
+### Gráfica de Tendencias
+
+A continuación, se presenta una gráfica que ilustra la evolución del número de finishers entre 2018 y 2024:
+
+<br>
+<center><img src='../assets/img/posts/20241203/Finishers18-24.svg'></center>
+
+---
+## Análisis de la Participación Femenina
+
+En esta tabla podemos ver el porcentaje de participación femenina en los principales maratones del mundo desde 2018 hasta 2024:
+
+### Tabla de Participación Femenina
+
+| City     | 2018  | 2019  | 2021  | 2022  | 2023  | 2024  |
+|----------|-------|-------|-------|-------|-------|-------|
+| Berlin   | 30.2% | 30.1% | 27.6% | 33.1% | 33.5% | **34.3%** |
+| Boston   | 45.0% | 44.9% | 48.4% | 42.6% | 42.9% | **42.9%** |
+| Chicago  | 46.3% | 46.4% | 45.5% | 46.9% | 46.6% | **46.0%** |
+| London   | 40.9% | 41.8% | 40.2% | 41.6% | 41.5% | **42.4%** |
+| NYC      | 42.0% | 42.4% | 45.5% | 44.4% | 44.4% | **44.5%** |
+| Paris    | 24.1% | 26.0% | 21.3% | 24.5% | 25.7% | **27.3%** |
+| Valencia | 17.1% | 18.7% | 15.9% | 19.2% | 20.6% | **21.7%** |
+| **Total** | **36.4%** | **36.7%** | **35.9%** | **37.4%** | **37.2%** | **37.7%** |
+
+### Análisis del Año 2024
+
+En 2024, **la participación femenina total alcanzó el 37.7%**, marcando un leve aumento respecto a 2023 (37.2%). Este crecimiento, aunque modesto, refleja un progreso continuo en la inclusión de mujeres en las principales competencias de larga distancia. Es de valorar el incremento que se ha producido entre 2018 y 2024 que es un **26,1%**.
+
+- **Chicago**: Con una participación femenina siempre superior al 45%, se consolida como una de las maratones del mundo más inclusivas.  
+- **Valencia**: Destaca especialmente por su crecimiento constante en los últimos años, alcanzando un **21.7% en 2024**, lo que lo convierte en un caso especial de análisis por ser el maratón con menor proporción femenina entre los grandes eventos. Sin embargo, su progresión es significativa un 17.1% en 2018 a 21.7% en 2024, lo que supone un **87,8%** de crecimiento, pasando de 3259 a 6119 corredoras, mostrando un esfuerzo sostenido por atraer a más mujeres.
+
+### Gráfica de Participación Femenina
+
+A continuación, presentamos una gráfica que muestra la evolución de la participación femenina en los principales maratones entre 2018 y 2024:
+
+<br>
+<center><img src='../assets/img/posts/20241203/Finishers18-24W.svg'></center>

@@ -6,7 +6,7 @@ date:   2024-11-27 8:30:20 -0600
 tags: [maratones, comparativas]
 author: Xavi Lluch
 ---
-Evolución del rendimiento 2018-24 (I)
+Evolución del rendimiento 2018-24
 ============
 
 Los maratones no solo son eventos masivos de participación, sino también escenarios de élite donde los mejores corredores del mundo compiten para superar límites. Un indicador clave del nivel competitivo de una carrera es el número de atletas que logran terminar en menos de unos tiempos determinados. Este análisis detalla cómo ha evolucionado este aspecto en seis de los principales maratones desde 2018 hasta 2024.
