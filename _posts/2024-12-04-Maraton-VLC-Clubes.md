@@ -2,7 +2,7 @@
 layout: post
 title:  Resultados Maratón Valencia por clubes
 subtitle: Análisis de los resultados de los clubes en el Maratón Valencia 2024
-date:   2024-12-04 8:30:20 -0600
+date:   2024-12-04 8:30:20 +0100
 tags: [maratones, Valencia, clubes]
 author: Xavi Lluch
 ---
