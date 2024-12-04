@@ -6,12 +6,14 @@ date:   2024-12-04 8:30:20 -0600
 tags: [maratones, Valencia, clubes]
 author: Xavi Lluch
 ---
+
 Uno de los fenómenos más interesantes de Valencia Ciudad del Running, son los clubes de running o grupos de entrenamiento. Muchos corredores preparan el maratón en estos grupos. 
 Yo, desde 2021, pertenezco al [Redolat Team](https://team.redolat.com/)  el más numeroso de la ciudad, que dirige José Antonio Redolat, que como atleta fue campeón de Europa, Olímpico y 6º del mundo, pero todavía es mucho mejor como entrenador y persona. Es un gustazo entrenar con el equipo, sea cual sea tu nivel siempre tienes compañeros para entrenar.
 
 Cuando se analizan los datos de los clubes más numerosos, siempre están en los primeros puestos los valencianos, 3 de ellos con más de 100 corredores llegados a meta: **Redolat Team**, **Runners Ciutat de Valencia** y el club organizador del maratón **S.D. Correcaminos**
 
 Estos son los clubes que han tenido 30 o más finishers en meta:
+
  
  | Pos | Club                                    | #   |
 |-----|-----------------------------------------|-----|
@@ -38,6 +40,7 @@ Estos son los clubes que han tenido 30 o más finishers en meta:
 | 21  | Best Athletics: Running Club London     | 32  |
 | 22  | C.A. DE PUENTE A PUENTE                 | 31  |
 
+___
 
 Además del número también podemos analizar el rendimiento de los clubes, para ello vamos a ver el tiempo medio de los 10, 20 y 30 corredores más rápidos de cada club:
 
