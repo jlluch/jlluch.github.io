@@ -3,7 +3,7 @@ layout: post
 title:  Resultados Maratón Valencia por países
 subtitle: Análisis de los resultados por países en el Maratón Valencia 2024
 date:   2024-12-06 8:30:20 +0100
-tags: [maratones, Valencia, clubes]
+tags: [maratones, Valencia, países]
 author: Xavi Lluch
 ---
 
