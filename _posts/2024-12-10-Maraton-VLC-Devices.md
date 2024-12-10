@@ -9,7 +9,9 @@ author: Xavi Lluch
 
 ## Introducción
 
-El Maratón de Valencia 2024 nos ha dejado un interesante panorama sobre los dispositivos utilizados por los corredores para medir sus rendimientos. Este análisis se enfoca en los 25 dispositivos más populares, evaluando métricas como el tiempo medio registrado, la distancia calculada y el error medio. También agruparemos los dispositivos por marcas, familias y tipos, y exploraremos qué marcas, aparte de Garmin, han logrado destacar en un sector claramente dominado por esta compañía. 
+El Maratón de Valencia 2024 nos ha dejado un interesante panorama sobre los dispositivos utilizados por los corredores para medir sus rendimientos. Este análisis se enfoca en los 25 dispositivos más populares, evaluando métricas como el tiempo medio registrado, la distancia calculada y el error medio. También agruparemos los dispositivos por marcas, familias y tipos, y exploraremos qué marcas, aparte de Garmin, han logrado destacar en un sector claramente dominado por esta compañía.
+
+En cuanto a la precisión de los GPS, podéis ver este vídeo que ya tiene unos cuantos años, pero sigue igual de vigente el conocer porqué los GPS tienen error a la hora de calcular la distancia de una carrera. El programa CronoTV con el gran Xavi Blasco: [Error en el GPS](https://youtu.be/Mux-QClL5YY) 
 
 ---
 
