@@ -198,8 +198,8 @@ Los dispositivos Garmin acaparan más del 80% del uso, por ello a continuación,
    - Apple ocupa el segundo lugar (22.97%) y se posiciona como una opción popular entre corredores ocasionales. 
 
 3. **Polar y Suunto en el segmento premium**:
-   - **Polar** y **Suunto** son opciones favoritas para corredores especializados, especialmente en trail y road running.
-   - Polar presenta la **mayor distancia promedio (42.82 km)**, aunque con un **error elevado (1.48%)**, mientras que Suunto equilibra precisión y versatilidad.
+   - **Polar** y **Suunto** son otras opciones para corredores especializados, especialmente en trail y road running.
+   - Polar presenta la **mayor distancia promedio (42.82 km)** y por lo tanto con **error elevado (1.48%)**, mientras que Suunto equilibra precisión y versatilidad.
 
 4. **Dispositivos móviles y casuales**:
    - **Android** y **Samsung**, principalmente utilizados a través de aplicaciones como Strava, presentan los tiempos más altos, lo que sugiere un uso más recreativo.
